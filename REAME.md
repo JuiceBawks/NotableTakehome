@@ -3,7 +3,8 @@ NOTE: I am going to try and make sure anyone who makes a query to the DB from an
 Another note: I did not get around to type checking and verification, but I think what I have right now is a solid barebones backend
 
 To start the server:
-    start by running "npm i"
+    start by cloning the repository by running "git clone https://github.com/JuiceBawks/NotableTakehome" in your terminal
+    navigate to the project folder and run "npm i"
     then run "npm start"
 
 To get a list of all current doctors: 
