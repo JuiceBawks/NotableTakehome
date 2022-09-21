@@ -1,4 +1,5 @@
 This node server runs off a Postgres DB with 3 tables; doctors, patients, and apps (appointments).
+I tested each endpoint with Postman, but I am positive other programs would work as well.
 NOTE: I am going to try and make sure anyone who makes a query to the DB from any IP has access, but if it's not working please email me so I can whitelist
 Another note: I did not get around to type checking and verification, but I think what I have right now is a solid barebones backend
 
